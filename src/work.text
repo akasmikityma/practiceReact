@@ -1,0 +1,15 @@
+the default is not getting set>>|
+##ctrl + backtick  to switch between the codebase and the termianl>>
+
+make another page to do the password generator method>>
+  
+   1. install the react-router-dom and have the path/passgen 
+
+   //div containing input{readonly ,text},next to it a button for copy the content>>
+   //under that thing having an input range next to it two input boxes >>
+   //have 4 useStates 
+   //passwordgenerator is the method >.
+   //now only when the page loads the password is generated 
+   // to copy to the clipboard the thing is >> window.navigator.clipboard.writetext(password)
+   //input range e onchange use kore state er value gulo alter kore dilei its done.. because the state are in the dependency array to the 
+     callback function that is in the useEffect>>
